@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      welcome to my website
-      —— a bilibili vlogger and cosplay lover
+      welcome to my website: a bilibili vlogger and cosplay lover
     title: Hi, my name is Siqiong
   blog: {}
   contact:
@@ -102,7 +101,7 @@ params:
         title: Exchange Life
         url: blogs/exchange_life
       - image: R_studio.jpg
-        subtitle: Work I have done in this class
+        subtitle: Something I learnt in this class
         title: R Studio
         url: blogs/R_studio
   two:
