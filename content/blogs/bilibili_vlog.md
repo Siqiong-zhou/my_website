@@ -3,13 +3,15 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:13-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+description: bilibili_vlog
 draft: false
-image: pic08.jpg
+image: bilibili_vlog.jpg
 keywords: ""
-slug: tempus
-title: Tempus
+slug: bilibili_vlog
+title: I upload vlogs on bilibili
 ---
+
+I started to upload videos on a chinese website called bilibili two years ago.
+Currenly I have uploaded 20 videos in all, with over 16,000 followers and 6,14,000 times of watch.(<https://space.bilibili.com/8176766/>)
+
+![bilibili account data]()
