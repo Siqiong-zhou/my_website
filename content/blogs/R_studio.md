@@ -58,4 +58,4 @@ ggplot(approval_sort,aes(x=week_of_year,y=mean_rate))+
 
 ```
 
-![ ]()
+![Biden Task](https://raw.githubusercontent.com/Siqiong-zhou/my_website/main/themes/forty/static/img/r_graph.png)
