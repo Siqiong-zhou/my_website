@@ -1,0 +1,35 @@
+---
+categories:  
+- ""    #the front matter should be like the one found in, e.g., blog2.md. It cannot be like the normal Rmd we used
+- ""
+date: "2021-10-18"
+description: Something about Me # the title that will show up once someone gets to this page
+draft: false
+image: about_me.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+
+keywords: ""
+slug: about_me # slug is the shorthand URL address... no spaces plz
+title: something about me
+---
+
+# Short Biography
+
+I’m Siqiong ZHOU from Masters in Financial Analysis, London Business School(<https://www.london.edu/>). 
+
+I have put great effort into **studying** for the past three years. Active and efficient communication with professors and students after class contributes a lot to my study. Finally, I got over 90 points in 17 courses and 85 points in most of the courses I took. I will not only be satisfied with understanding and accepting the knowledge taught in class, but also give consideration to the reliability and practicability of it, without letting go of any question. From my perspective, this could be proof of my critical thinking ability and thorough research spirit in the academic field.
+
+I like **cross-cultural communication**. 
+Breaking stereotypes always brings me insight. 
+
+- The desire to communicate with people from different cultures pushed me to join the Overseas Department and later on become the director of it. 
+
+- I sponsored and participated in over 20 intercultural communication activities which involved around 200 exchange students and 150 international students. 
+
+- As a Tsinghua SEM Student ambassador, I received visiting groups from Wharton, Rotterdam School of Management and Groningen University, spread SEM's spirits, communicated in respect of students' academic career path and built up long- term cooperation and communication with them. 
+
+- Last semester, I stood out in Tsinghua SEM exchange program, ranked top 10% of the whole academy in comprehensive consideration of personal statement, interview, and GPA, and went to UBC for exchange.
+
+Additionally, it is also of great significance for me to learn directly from **work and the profession**. 
+As an assistant to a fund manager of Phoenix Tree Capital, I worked under great pressure for nearly three months, finishing all my work at high quality and efficiency, including collecting information of 150 companies in real estate and forming a report about the financial transformation in this industry. I also mastered all kinds of Excel functions and basic VBA functions in one week, completed data processing work in a short time, and produced a clear and concise report during my internship in CCB Fintech, which could also be proof of my self-learning ability. I will really appreciate it if I could use the solid master training in SAIF to increase my competence both academically and professionally.
+
+These experiences fostered my sense of responsibility, strengthened my leadership capabilities and the ability to do team work. What I have gained is not only experience in communication and work, but also precious opportunities to enhance my capacity for self-learning, self-management and self-development.   
